@@ -1,7 +1,7 @@
-sapi
+cacing
 kebo
 ayam
-kuda
+cicak
 kelinci
 rusa kancil
 keledai
