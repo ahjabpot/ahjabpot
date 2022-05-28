@@ -4,3 +4,8 @@ dagang kecoak
 
 ///dagang bkecoak item
 ///dagang sapi pincang
+
+dagang gorengan:
+bakwan
+pisang goreng
+sukun goreng
