@@ -5,7 +5,10 @@ dagang kecoak
 ///dagang bkecoak item
 ///dagang sapi pincang
 
-dagang gorengan :
+
+=======
+dagang gorengan:
 bakwan
-godo telo
-tape ketan
+pisang goreng
+sukun goreng
+
