@@ -5,3 +5,6 @@ kuda
 kelinci
 rusa kancil
 keledai
+kecoak
+ular
+kadal
