@@ -9,3 +9,7 @@ kecoak
 ular
 simpanse
 semut
+
+dagang sapi
+dagang kecoak
+dagang semut
